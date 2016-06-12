@@ -2,7 +2,7 @@
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>Как поймать льва в пустыне?</title>
+  <title>Как поймать льва в пустыне? и научиться пользоваться гитхабом? :)</title>
   <link rel="stylesheet" href="style.css" />
   <!--[if lt IE 9]> 
     <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script> 
